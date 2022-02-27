@@ -1,7 +1,7 @@
 # supreme-eureka
 Project 1 from Harvard CS50 course - training Django by creating encyclopedia plataform
 
-Encyclopedia
+# Encyclopedia
 Project 1 from Edx | Harvard CS50 Course
 Specification
 Check https://cs50.harvard.edu/web/2020/projects/1/wiki/
